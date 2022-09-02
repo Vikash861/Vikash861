@@ -1,4 +1,4 @@
-- 👋 Hi, I’m vikahs
+- 👋 Hi, I’m vikash
 - 👀 I’m interested in computer science and programming.
 - 🌱 I’m currently learning concept of computer science I have already learned about Full Stack Web Development.
 - 📫 you can contact me at kumarvikashv681@gmail.com.
